@@ -1,0 +1,728 @@
+{
+"Garnele": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Garnelen",
+  "uebersetzung": "shrimp"
+  },
+"Muskat": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "nutmeg"
+  },
+"Selleriesamen": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Selleriesamen",
+  "uebersetzung": "celery"
+  },
+"Nudel": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Nudeln",
+  "uebersetzung": "noodle"
+  },
+"Nelke": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Nelken",
+  "uebersetzung": "clove"
+  },
+"Zehe": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Zehen",
+  "uebersetzung": "clove"
+  },
+"Basilikum": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "None",
+  "uebersetzung": "basil"
+  },
+"Kreuzkümmel": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Kreuzkümmel",
+  "uebersetzung": "cumin"
+  },
+"Dill": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "dill"
+  },
+"Schinken": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Schinken",
+  "uebersetzung": "ham"
+  },
+"Backform": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Backformen",
+  "uebersetzung": "baking tray"
+  },
+"Aprikose": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Aprikosen",
+  "uebersetzung": "apricot"
+  },
+"Sesam": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "sesame"
+  },
+"Lauch": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Lauche",
+  "uebersetzung": "leek"
+  },
+"Sellerie": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Sellerien",
+  "uebersetzung": "celery"
+  },
+"Fenchel": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Fenchel",
+  "uebersetzung": "fennel"
+  },
+"Bohne": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Bohnen",
+  "uebersetzung": "bean"
+  },
+"Minze": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Minzen",
+  "uebersetzung": "mint"
+  },
+"Brei": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Breie",
+  "uebersetzung": "porridge"
+  },
+"Topf": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Töpfe",
+  "uebersetzung": "pot"
+  },
+"Backpapier": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Backpapiere",
+  "uebersetzung": "baking"
+  },
+"Croissant": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Croissants",
+  "uebersetzung": "croissant"
+  },
+"Salami": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "None",
+  "uebersetzung": "salami"
+  },
+"Schafskäse": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Schafskäsen",
+  "uebersetzung": "feta"
+  },
+"Eintopf": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Eintöpfe",
+  "uebersetzung": "stew"
+  },
+"Löffel": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Löffel",
+  "uebersetzung": "spoon"
+  },
+"Eigelb": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Eigelb",
+  "uebersetzung": "egg yolk"
+  },
+"Hummer": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Hummer",
+  "uebersetzung": "lobster"
+  },
+"Gabel": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Gabeln",
+  "uebersetzung": "fork"
+  },
+"Olive": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Oliven",
+  "uebersetzung": "olive"
+  },
+"Brunnenkresse": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Brunnenkressen",
+  "uebersetzung": "watercress"
+  },
+"Traube": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Trauben",
+  "uebersetzung": "grape"
+  },
+"Teig": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Teige",
+  "uebersetzung": "dough"
+  },
+"Curry": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Currys",
+  "uebersetzung": "curry"
+  },
+"Knoblauch": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "garlic"
+  },
+"Ei": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Eier",
+  "uebersetzung": "egg"
+  },
+"Coriander": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Coriander",
+  "uebersetzung": "cilantro"
+  },
+"Safran": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "saffron"
+  },
+"Natron": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "None",
+  "uebersetzung": "baking powder"
+  },
+"Blumenkohl": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Blumenkohle",
+  "uebersetzung": "cauliflower"
+  },
+"Gulasch": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Gulaschs",
+  "uebersetzung": "goulash"
+  },
+"Rosmarin": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "rosemary"
+  },
+"Nudelholz": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Nudelhölzer",
+  "uebersetzung": "rolling pin"
+  },
+"Salbei": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "sage"
+  },
+"Zutat": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Zutaten",
+  "uebersetzung": "ingredient"
+  },
+"Papierhandtuch": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Papierhandtücher",
+  "uebersetzung": "paper"
+  },
+"Kuchen": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Kuchen",
+  "uebersetzung": "cake"
+  },
+"Zitronenschale": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Zitronenschalen",
+  "uebersetzung": "lemon"
+  },
+"Wermut": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "vermouth"
+  },
+"Pudding": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Puddinge",
+  "uebersetzung": "pudding"
+  },
+"Rührgerät": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Rührgeräte",
+  "uebersetzung": "mixer"
+  },
+"Gurke": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Gurken",
+  "uebersetzung": "cucumber,"
+  },
+"Backblech": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Backbleche",
+  "uebersetzung": "baking tray"
+  },
+"Hackfleisch": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Hackfleische",
+  "uebersetzung": "ground"
+  },
+"Spinat": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "spinach"
+  },
+"Knödel": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Knödel",
+  "uebersetzung": "dumpling"
+  },
+"Kloß": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Klöße",
+  "uebersetzung": "dumpling"
+  },
+"Steak": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Steaks",
+  "uebersetzung": "steak"
+  },
+"Ofen": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Ofen",
+  "uebersetzung": "oven"
+  },
+"Birne": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Birnen",
+  "uebersetzung": "pear"
+  },
+"Hüttenkäse": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Hüttenkäsen",
+  "uebersetzung": "cottage"
+  },
+"Aubergine": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Auberginen",
+  "uebersetzung": "eggplant"
+  },
+"Apfelmus": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "None",
+  "uebersetzung": "applesauce"
+  },
+"Meerrettich": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "horseradish"
+  },
+"Mohn": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Mohne",
+  "uebersetzung": "poppy seed"
+  },
+"Backfett": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Backfette",
+  "uebersetzung": "shortening"
+  },
+"Pflanzenfett": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Pflanzenfette",
+  "uebersetzung": "shortening"
+  },
+"Hering": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Heringe",
+  "uebersetzung": "herring"
+  },
+"Kamille": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Kamillen",
+  "uebersetzung": "camomile"
+  },
+"Pfirsich": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Pfirsiche",
+  "uebersetzung": "peach"
+  },
+"Cayenne-Pfeffer": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Cayenne-Pfeffer",
+  "uebersetzung": "Cayenne"
+  },
+"Kalbfleisch": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Kalbfleische",
+  "uebersetzung": "veal"
+  },
+"Thunfisch": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Thunfische",
+  "uebersetzung": "tuna"
+  },
+"Wurst": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Würste",
+  "uebersetzung": "sausage"
+  },
+"Zimt": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "cinnamon"
+  },
+"Nuss": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Nüsse",
+  "uebersetzung": "nut"
+  },
+"Kiwi": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Kiwis",
+  "uebersetzung": "kiwi"
+  },
+"Ingwer": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Ingwer",
+  "uebersetzung": "ginger"
+  },
+"Rosenkohl": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Rosenkohle",
+  "uebersetzung": "brussels"
+  },
+"Besteck": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Besteck",
+  "uebersetzung": "silverware"
+  },
+"Kohl": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Kohle",
+  "uebersetzung": "cabbage"
+  },
+"Kühlschrank": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Kühlschränke",
+  "uebersetzung": "refrigerator"
+  },
+"Backpulver": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "None",
+  "uebersetzung": "baking"
+  },
+"Gebäck": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "None",
+  "uebersetzung": "baked goods"
+  },
+"Kaper": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Kapern",
+  "uebersetzung": "caper"
+  },
+"Mehl": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "flour"
+  },
+"Kurkuma": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "tumeric"
+  },
+"Haferflocken": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "None",
+  "uebersetzung": "oatmeal"
+  },
+"Essig": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Essige",
+  "uebersetzung": "vinegar"
+  },
+"Brühe": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Brühen",
+  "uebersetzung": "broth"
+  },
+"Bockshornklee": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Bockshornkleen",
+  "uebersetzung": "fenugreek"
+  },
+"Kaviar": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "caviar"
+  },
+"Becher": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Becher",
+  "uebersetzung": "mug"
+  },
+"Strudel": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Strudel",
+  "uebersetzung": "strudel"
+  },
+"Pflaume": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Pflaumen",
+  "uebersetzung": "plum"
+  },
+"Kresse": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Kressen",
+  "uebersetzung": "cress"
+  },
+"Hopfen": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "None",
+  "uebersetzung": "hops"
+  },
+"Frischkäse": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Frischkäsen",
+  "uebersetzung": "cream"
+  },
+"Paprika": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "paprika"
+  },
+"Joghurt": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "yogurt"
+  },
+"Brombeere": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Brombeeren",
+  "uebersetzung": "blackberry"
+  },
+"Döner": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Döner",
+  "uebersetzung": "döner"
+  },
+"Senf": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "mustard"
+  },
+"Rosine": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Rosinen",
+  "uebersetzung": "raisin"
+  },
+"Gugelhupf": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Gugelhupfe",
+  "uebersetzung": "bundt cake"
+  },
+"Brandy": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "brandy"
+  },
+"Maiskolben": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Maiskolben",
+  "uebersetzung": "corn"
+  },
+"Schale": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Schalen",
+  "uebersetzung": "peel"
+  },
+"Frucht": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Früchte",
+  "uebersetzung": "fruit"
+  },
+"Thymian": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "None",
+  "uebersetzung": "thyme"
+  },
+"Karotte": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Karotten",
+  "uebersetzung": "carrot"
+  },
+"Möhre": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Möhren",
+  "uebersetzung": "carrot"
+  },
+"Himbeere": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Himbeeren",
+  "uebersetzung": "raspberry"
+  },
+"Salat": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Salate",
+  "uebersetzung": "salad"
+  },
+"Kartoffelpuffer": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Kartoffelpuffer",
+  "uebersetzung": "potato"
+  },
+"Geflügel": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "None",
+  "uebersetzung": "poultry"
+  },
+"Osterhäschen": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Osterhäschen",
+  "uebersetzung": "Easter bunny"
+  },
+"Zwiebel": {
+  "wortart": "Nomen",
+  "artikel": "die",
+  "plural": "Zwiebeln",
+  "uebersetzung": "onion"
+  },
+"Gewürz": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "None",
+  "uebersetzung": "seasoning"
+  },
+"Lammfleisch": {
+  "wortart": "Nomen",
+  "artikel": "das",
+  "plural": "Lammfleische",
+  "uebersetzung": "lamb"
+  },
+"Weizen": {
+  "wortart": "Nomen",
+  "artikel": "der",
+  "plural": "Weizen",
+  "uebersetzung": "wheat"
+  }
+}
